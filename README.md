@@ -1,5 +1,7 @@
 # 2018-2019 NHL Goals Web Map
 
+The project can be accessed at https://gordydelap.github.io/nhl-goals-mapped/
+
 ## Description
 An interactive heatmap of every goal scored during the 2018-2019 NHL season. Goals are mapped relative to [Null Island](https://en.wikipedia.org/wiki/Null_Island) using leaflet, and visualized using leaflet-heat.
 
