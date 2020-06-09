@@ -1,6 +1,6 @@
 # 2018-2019 NHL Goals Web Map
 
-![screenshot](img/webscreenshot.png)
+![screenshot](img/web_screenshot.png)
 
 The project can be accessed at https://gordydelap.github.io/nhl-goals-mapped/
 
