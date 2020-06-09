@@ -11,7 +11,7 @@ var mymap = L.map('map', {
 var mytile = L.tileLayer('assets/tiles/{z}/{x}/{y}.png', {
   maxZoom: 22,
   tms: true,
-  attribution: 'NHL Goal Data &copy; gisdummy, NHL API | Basemap &copy; WAR on Ice, QMetaTiles | Made By Gordon DeLap'
+  attribution: 'Goal Data &copy; gisdummy, NHL API | Basemap &copy; WAR on Ice, QMetaTiles | Made By Gordon DeLap'
 }).addTo(mymap);
 
 // Variable that will hold NHL goaLs data
