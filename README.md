@@ -17,8 +17,8 @@ To explore the potential of using GIS as a tool for [Hockey Analytics](https://e
 | `nhl_rink.png`               | Raster Image | image of a standard size NHL rink from [WAR on Ice](http://blog.war-on-ice.com/make-your-own-nhl-rink-plot-in-r/index.html). Georeferenced using the QGIS georeferencer. Map tiles generated using the QTiles plugin.               |
 
 ## Applied Libraries
-* [Leaflet.js](https://leafletjs.com/): `"An open-source JavaScript library for mobile-friendly interactive maps"`
-* [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat): `"A tiny, simple and fast [Leaflet](http://leafletjs.com) heatmap plugin. Uses [simpleheat](https://github.com/mourner/simpleheat) under the hood, additionally clustering points into a grid for performance."`
+* [Leaflet.js](https://leafletjs.com/): "An open-source JavaScript library for mobile-friendly interactive maps"
+* [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat): "A tiny, simple and fast [Leaflet](http://leafletjs.com) heatmap plugin. Uses [simpleheat](https://github.com/mourner/simpleheat) under the hood, additionally clustering points into a grid for performance."
 
 ## Web Service
 The website is hosted on [GitHub Pages](https://pages.github.com/).
