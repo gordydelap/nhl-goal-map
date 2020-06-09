@@ -1,7 +1,7 @@
 # NHL Goals Visualization Dashboard
 
 ## Description
-An interactive heatmap of every goal scored from the 2018-2019 NHL season.
+An interactive heatmap of every goal scored during the 2018-2019 NHL season.
 
 ## Project Goal
 
